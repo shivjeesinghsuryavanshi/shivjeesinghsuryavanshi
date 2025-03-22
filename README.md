@@ -33,7 +33,7 @@ Sure! Here’s a personalized GitHub README for you, based on your skills, inter
 
 ### 🚀 Projects
 - 🌐 [E-Health Nexus](https://github.com/your-project-link) → A voice-enabled healthcare platform offering telemedicine, appointment booking, and medical record management.  
-- 💻 [Your MERN Project](https://github.com/your-project-link) → A full-stack e-commerce platform with authentication and cart functionality.  
+- 💻 [my portfolio]() → A full-stack portfolio.  
 
 ---
 
